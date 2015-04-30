@@ -3,7 +3,7 @@
 ## タスク
 * とまるとこ:done
 * くるま:done
-* 新幹線:4/29
+* 新幹線:行き:done 帰り:not yet
 
 ## とまるとこ
 * [やました](http://oyado-yamasita.com/)
